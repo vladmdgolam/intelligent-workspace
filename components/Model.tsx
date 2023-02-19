@@ -19,4 +19,4 @@ export function Model(props: JSX.IntrinsicElements['group']) {
   )
 }
 
-useGLTF.preload('/model-2-transformed.glb')
+useGLTF.preload('/model.glb')
